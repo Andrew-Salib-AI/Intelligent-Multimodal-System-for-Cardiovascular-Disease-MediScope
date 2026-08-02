@@ -1,0 +1,13 @@
+ultralytics
+opencv-python-headless
+pandas
+numpy
+scikit-learn
+xgboost
+tensorflow
+matplotlib
+seaborn
+scipy
+tqdm
+pyyaml
+joblib
